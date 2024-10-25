@@ -31,7 +31,7 @@ El desafío propuesto fue manejar de una manera eficiente el uso de un conjunto 
 
 ### Links
 
-- Sitio: [-](#)
+- Sitio: [Dashboard de seguimiento de tiempo](https://f-avalos.github.io/Time-Tracking-Dashboard/)
 
 ## Proceso
 
